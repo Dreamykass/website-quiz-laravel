@@ -18,9 +18,9 @@ Technical:
 - MySQL database
 
 # Media
-[]()
-[]()
-[]()
+![_showcase/1.png](_showcase/1.png)
+![_showcase/2.png](_showcase/2.png)
+![_showcase/3.png](_showcase/3.png)
 
 # Usage/installation
 - `composer install` to install the dependencies into `vendor` directory
